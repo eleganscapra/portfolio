@@ -2,7 +2,7 @@ import turtle
 import time
 import random
 
-# 28/12/23
+# Date: 28/12/23
 
 delay = 0.1
 points = 0
