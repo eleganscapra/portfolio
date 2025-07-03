@@ -4,6 +4,9 @@
 #include <regex>
 using namespace std;
 
+/*
+Este es un proyecto en el que se usaron árboles AVL para el manejo simulado de registros de un hospital
+*/
 class Archivo {
 public:
     int n_registro;
